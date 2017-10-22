@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\ming zi\documents\raytracer\raytracerpad\raytracerpad\main.cpp(16): warning C4305: “初始化”: 从“double”到“float”截断
+  RayTracerPad.vcxproj -> C:\Users\Ming Zi\Documents\RayTracer\RayTracerPad\Debug\RayTracerPad.exe
+  RayTracerPad.vcxproj -> C:\Users\Ming Zi\Documents\RayTracer\RayTracerPad\Debug\RayTracerPad.pdb (Partial PDB)
